@@ -3,7 +3,7 @@ import img from './assets/img1.jpg'
 
 const about = () => {
     return(
-        <section>
+        <section class='about'>
             <img src={ img } value='Chaise blanche photo' />
             <div className="aboutUs">
                 <h2>About Us</h2>

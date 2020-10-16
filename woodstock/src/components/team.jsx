@@ -3,7 +3,7 @@ import img from './assets/img3.jpg'
 
 const team = () => {
     return(
-        <section>
+        <section class='team'>
             <img src={ img } value='Photo réprésentant des bureaux' />
             <div className="title">
                 <h2>Creative Team</h2>
@@ -19,6 +19,5 @@ const team = () => {
         </section>
     )
 }
-
 
 export default team
