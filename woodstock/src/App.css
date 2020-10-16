@@ -125,3 +125,27 @@ button {
 .team button {
   color: white;
 }
+
+/* Contact */
+
+.contact{
+  margin: 10vh 15vw;
+}
+
+.contact form {
+  text-align: center;
+  display: flex;
+  width: 30vw;
+  flex-wrap: wrap;
+}
+/* Footer */
+
+footer{
+  background:  #1D1818;
+  text-align: center;
+}
+
+footer img {
+  margin: 4vh 0;
+  height: 5vh;
+}

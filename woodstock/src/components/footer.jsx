@@ -3,7 +3,9 @@ import img from './assets/logo.png'
 
 const footer = () => {
     return(
-       <img src={ img } value='logo Wood' />
+        <footer>
+            <img src={ img } value='logo Wood' />
+        </footer>
     )
 }
 
